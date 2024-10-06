@@ -1,21 +1,8 @@
-# AR Car Showroom
+# DRIVE-Digital-Reality-Immersive-Vehicle-Experience
 
 ## Overview
 
 AR Car Viewer is a mobile application developed using Flutter framework which provides users the ability to view cars in an augmented reality (AR) environment. The app aims to give users a unique car viewing experience, allowing them to visualize cars in a real-world environment using their mobile device camera.
-
-## Screenshots
-
-### Click below to watch Video
-
-[Click here to watch the video](https://youtube.com/shorts/8CiHawyc4zg?feature=share)
-| Splash | Home Page |
-| :----------------------: | :----------------------: |
-| ![](ScreenShots/img1.jpg) | ![](ScreenShots/img2.jpg) |
-
-|       Mercedes AMG        |       Ford Mastang        |        Ferari SF90        |
-| :-----------------------: | :-----------------------: | :-----------------------: |
-| ![](ScreenShots/img3.jpg) | ![](ScreenShots/img4.jpg) | ![](ScreenShots/img5.png) |
 
 ## Features
 
